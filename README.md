@@ -11,7 +11,7 @@ A responsive portfolio for a Java Full Stack Developer specializing in enterpris
 - Dark visual design with lime accents and responsive layouts.
 - Enterprise banking case studies covering liquidity management, digital transaction banking, and NBK engagements.
 - Technical skills, professional experience, education, and awards.
-- Coding platform cards for LeetCode, CodeChef, Codeforces, HackerRank, HackerEarth, and GeeksforGeeks, plus social profile links.
+- Coding platform cards for LeetCode, CodeChef, Codeforces, HackerRank, Coding Ninjas Code360, and GeeksforGeeks, plus social profile links.
 - Expandable project details and conceptual workflow diagrams.
 - Downloadable resume, email contact, LinkedIn, and GitHub links.
 - Keyboard focus indicators, a skip link, and reduced-motion support.
