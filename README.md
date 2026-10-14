@@ -4,7 +4,7 @@ A responsive portfolio for a Java Full Stack Developer specializing in enterpris
 
 ## Live website
 
-**https://Firoz1212.github.io/portfolio/**
+**https://Firoz1212.github.io/firoz-portfolio/**
 
 ## Features
 
