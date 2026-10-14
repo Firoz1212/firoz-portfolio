@@ -26,6 +26,7 @@ HTML5, CSS3, and vanilla JavaScript. No build step or package installation is re
 dist/
   index.html                   # Page content and sections
   style.css                    # Theme and responsive layout
+  firoz-hussain.png             # Profile portrait
   script.js                    # Copy-email interaction
   Firoz-Hussain-Resume.pdf      # Downloadable resume
 .github/workflows/deploy.yml    # Automatic GitHub Pages deployment
