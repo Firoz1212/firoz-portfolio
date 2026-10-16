@@ -6,7 +6,7 @@ A responsive portfolio for a Java Full Stack Developer specializing in enterpris
 
 **https://Firoz1212.github.io/firoz-portfolio/**
 
-## Features
+## Features 
 
 - Dark visual design with lime accents and responsive layouts.
 - Enterprise banking case studies covering liquidity management, digital transaction banking, and NBK engagements.
