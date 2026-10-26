@@ -63,5 +63,5 @@ Enterprise engagements were completed as part of employment at Intellect Design 
 ## Contact
 
 - Email: firoz.hussain004@gmail.com
-- LinkedIn: https://linkedin.com/in/wfiroz-hussain-a05738216/
+- LinkedIn: https://www.linkedin.com/in/firoz-hussain-a05738216/
 - GitHub: https://github.com/Firoz1212
